@@ -31,7 +31,7 @@ https://github.com/colinwolf911/walkthough-git.git
 #link to remote 
 git remote add origin https://github.com/colinwolf911/walkthough-git.git
 
-#push to local
+#push to local to remote
 git push origin master
 #under master branch 
 
