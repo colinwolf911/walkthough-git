@@ -27,4 +27,11 @@ clear
 git config --global user.username colinwolf911
 
 #copy the link of remote reposity from git
+https://github.com/colinwolf911/walkthough-git.git
+#link to remote 
+git remote add origin https://github.com/colinwolf911/walkthough-git.git
+
+#push to local
+git push origin master
+#under master branch 
 
